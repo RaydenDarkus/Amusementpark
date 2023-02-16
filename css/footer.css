@@ -1,0 +1,8 @@
+footer {
+    border-top: 1px solid red;
+    margin-bottom: 0;
+    letter-spacing: 0.5px;
+    width: 100%;
+    position: absolute;
+    z-index: 20;
+} 

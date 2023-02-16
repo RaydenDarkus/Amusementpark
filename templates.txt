@@ -1,0 +1,41 @@
+<div id="nav-placeholder"></div>
+    <script>
+    $(function(){
+      $("#nav-placeholder").load("nav.html");
+    });
+    </script>
+
+
+<!--<header>
+     <div class="top-container">
+        <a href="#"><i class="fa fa-home"></i></a> 
+        <a href="#"><i class="fa fa-envelope"></i></a>
+        <button class="button button1">Login</button>
+        <button class="button button2">Sign up for free</button>
+    </div> -->
+    <!--<div class="dropdown1">
+      Theme Park
+      <div class="dropdown1-content">
+        <a href="#">Snow park</a>
+        <a href="#">Water park</a>
+        <a href="#">Get Help</a>
+        <a href="#">Reviews</a>
+      </div>
+    </div>   
+    <div class="dropdown2">
+      Stay
+      <div class="dropdown2-content">
+        <a href="#">Resorts</a>
+        <a href="#">Motel</a>
+        <a href="#">Inn</a>
+        <a href="#">Get Help</a>
+        <a href="#">Reviews</a>
+      </div>
+    </div>  
+    <div class = "content1">
+    <a href="#" style="text-decoration:none; color:white;">Templates</a>
+    </div>
+    <div class = "content2">
+    <a href="#" style="text-decoration:none; color:white;">Pricing</a>
+    </div>
+  -->
