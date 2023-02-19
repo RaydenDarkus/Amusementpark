@@ -8,6 +8,20 @@
     margin-bottom: 10px;
 }
 
+.navbar {
+    border-bottom: 1px solid red;
+}
+
+.nav-link {
+    margin: 3px;
+}
+
+.nav-link:hover {
+    background: linear-gradient(to bottom, #3366ff 0%, #ff99cc 100%);
+    border-radius: 5px;
+    color: rgb(238, 255, 1) !important;
+}
+
 .btn {
     margin-right: 5px;
 }
@@ -30,3 +44,9 @@
     background-color:rgb(96, 96, 225) !important;
     transform: scale(1.1);
 }
+
+@media only screen and (max-width: 768px) {
+    #nav-placeholder {
+
+    }
+  }

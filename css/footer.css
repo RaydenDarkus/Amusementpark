@@ -6,3 +6,12 @@ footer {
     position: absolute;
     z-index: 20;
 } 
+
+#fcontent {
+    padding-top: 20px;
+    border: 1px solid black;
+}
+
+#email {
+    text-decoration: none;
+}
